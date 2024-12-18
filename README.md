@@ -98,11 +98,11 @@ http://localhost:8080/api/tasks/2
 
 Clone the repository, and modify the docker-compose file with the credentials that you want to use in your container
 
-```yml
+```
 app_todo:
   environment:
     DB_URL: jdbc:mysql://todo:3306/todocrud?createDatabaseifNotExist=true&serverTimezone=UTC
-	DB_USER:
+        DB_USER:
 	DB_PASSWORD:
 todo:
   environment:
