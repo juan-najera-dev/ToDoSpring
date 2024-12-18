@@ -1,0 +1,6 @@
+com/jcnajera/todo/repository/TodoRepository.class
+com/jcnajera/todo/service/ITaskService.class
+com/jcnajera/todo/service/TaskService.class
+com/jcnajera/todo/controller/TodoController.class
+com/jcnajera/todo/model/Task.class
+com/jcnajera/todo/TodoApplication.class
