@@ -112,7 +112,7 @@ todo:
 
 ```
 
-in a terminal window go to the project and create the application JAR
+In a terminal window go to the project and create the application JAR if you want to rebuild the APP
 
 ```bash
 cd Todo
