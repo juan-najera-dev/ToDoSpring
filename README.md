@@ -10,18 +10,6 @@ Clone the repository, create a schema in MySQL
 CREATE SCHEMA `todocrud` ;
 ```
 
-Create an application.properties file in /src/main/resources
-
-```application.properties
-spring.application.name=app_todo
-
-spring.datasource.url=${DB_URL}
-spring.datasource.username=${DB_USER}
-spring.datasource.password=${DB_PASSWORD}
-spring.jpa.hibernate.ddl-auto=update
-server.port=8080
-```
-
 Add the enviroment variables to your project
 
 - DB_USER = Your user
